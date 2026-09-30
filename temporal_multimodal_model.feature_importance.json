@@ -1,0 +1,650 @@
+[
+  {
+    "feature": "rms_mean",
+    "importance": 0.07119923560597924
+  },
+  {
+    "feature": "mfcc_1_mean",
+    "importance": 0.05979082737403295
+  },
+  {
+    "feature": "mfcc_1_std",
+    "importance": 0.04721408923589502
+  },
+  {
+    "feature": "rms_std",
+    "importance": 0.045326167150336445
+  },
+  {
+    "feature": "mfcc_5_mean",
+    "importance": 0.04341830853679439
+  },
+  {
+    "feature": "mfcc_3_mean",
+    "importance": 0.0425531437306994
+  },
+  {
+    "feature": "onset_count",
+    "importance": 0.04032948186146674
+  },
+  {
+    "feature": "bandwidth_mean",
+    "importance": 0.03843948858844462
+  },
+  {
+    "feature": "rolloff_std",
+    "importance": 0.03806394379420751
+  },
+  {
+    "feature": "bandwidth_std",
+    "importance": 0.037566288614444804
+  },
+  {
+    "feature": "mfcc_2_mean",
+    "importance": 0.03458866350049552
+  },
+  {
+    "feature": "centroid_std",
+    "importance": 0.032087452807299514
+  },
+  {
+    "feature": "zcr_mean",
+    "importance": 0.031432400124013875
+  },
+  {
+    "feature": "mfcc_4_mean",
+    "importance": 0.03126424615455208
+  },
+  {
+    "feature": "zcr_std",
+    "importance": 0.03041223048963711
+  },
+  {
+    "feature": "rolloff_mean",
+    "importance": 0.02780064022402375
+  },
+  {
+    "feature": "mfcc_2_std",
+    "importance": 0.027778233841399574
+  },
+  {
+    "feature": "centroid_mean",
+    "importance": 0.027667895430605625
+  },
+  {
+    "feature": "mfcc_3_std",
+    "importance": 0.02731815017493734
+  },
+  {
+    "feature": "mfcc_4_std",
+    "importance": 0.02593076398000727
+  },
+  {
+    "feature": "mfcc_5_std",
+    "importance": 0.020980224423373387
+  },
+  {
+    "feature": "tempo",
+    "importance": 0.0202613856583522
+  },
+  {
+    "feature": "left_middle_tip_range_y",
+    "importance": 0.005671478138612475
+  },
+  {
+    "feature": "left_middle_tip_vel_std",
+    "importance": 0.005094116365351514
+  },
+  {
+    "feature": "right_ring_tip_range_y",
+    "importance": 0.005035955641954231
+  },
+  {
+    "feature": "right_index_tip_vel_max",
+    "importance": 0.0044991283294363174
+  },
+  {
+    "feature": "right_index_tip_range_z",
+    "importance": 0.004066833746906845
+  },
+  {
+    "feature": "dist_r_wrist_index",
+    "importance": 0.0038745370447500864
+  },
+  {
+    "feature": "left_ring_tip_range_y",
+    "importance": 0.0035736847626914115
+  },
+  {
+    "feature": "right_ring_tip_range_z",
+    "importance": 0.0034577485775815404
+  },
+  {
+    "feature": "l_wrist_range_y",
+    "importance": 0.0034551912494837672
+  },
+  {
+    "feature": "r_wrist_count",
+    "importance": 0.003422121962855321
+  },
+  {
+    "feature": "right_index_tip_range_y",
+    "importance": 0.003396674335833076
+  },
+  {
+    "feature": "right_thumb_tip_range_z",
+    "importance": 0.0032174263356224346
+  },
+  {
+    "feature": "right_thumb_tip_count",
+    "importance": 0.0031586808592919177
+  },
+  {
+    "feature": "left_middle_tip_range_z",
+    "importance": 0.003128574903220856
+  },
+  {
+    "feature": "r_wrist_vel_max",
+    "importance": 0.003077177998068359
+  },
+  {
+    "feature": "r_wrist_vel_mean",
+    "importance": 0.003001502054985797
+  },
+  {
+    "feature": "right_pinky_tip_path_length",
+    "importance": 0.0029031310711157927
+  },
+  {
+    "feature": "left_ring_tip_path_length",
+    "importance": 0.002841367377987643
+  },
+  {
+    "feature": "left_pinky_tip_vel_max",
+    "importance": 0.002826100323068257
+  },
+  {
+    "feature": "left_pinky_tip_range_x",
+    "importance": 0.0028143811371120924
+  },
+  {
+    "feature": "left_thumb_tip_vel_mean",
+    "importance": 0.002788655102576373
+  },
+  {
+    "feature": "right_middle_tip_range_x",
+    "importance": 0.0027738120748496326
+  },
+  {
+    "feature": "left_thumb_tip_range_x",
+    "importance": 0.0027606435574823156
+  },
+  {
+    "feature": "left_ring_tip_vel_max",
+    "importance": 0.0027454686873209714
+  },
+  {
+    "feature": "left_thumb_tip_range_y",
+    "importance": 0.0026636422048691437
+  },
+  {
+    "feature": "right_ring_tip_vel_max",
+    "importance": 0.002595739655827371
+  },
+  {
+    "feature": "left_pinky_tip_range_z",
+    "importance": 0.0025492929324665973
+  },
+  {
+    "feature": "right_ring_tip_vel_mean",
+    "importance": 0.0024648693690557514
+  },
+  {
+    "feature": "r_wrist_range_y",
+    "importance": 0.0024632782542806726
+  },
+  {
+    "feature": "l_wrist_vel_max",
+    "importance": 0.002442225093674187
+  },
+  {
+    "feature": "bow_thumb_distance",
+    "importance": 0.0024001167750784622
+  },
+  {
+    "feature": "right_pinky_tip_count",
+    "importance": 0.002359173682610659
+  },
+  {
+    "feature": "skeleton_fallback",
+    "importance": 0.0023463171257046907
+  },
+  {
+    "feature": "left_index_tip_path_length",
+    "importance": 0.002337546524566642
+  },
+  {
+    "feature": "right_pinky_tip_range_y",
+    "importance": 0.002317793660651855
+  },
+  {
+    "feature": "right_pinky_tip_range_z",
+    "importance": 0.0023012636791965237
+  },
+  {
+    "feature": "left_thumb_tip_path_length",
+    "importance": 0.0022992122309892886
+  },
+  {
+    "feature": "left_thumb_tip_range_z",
+    "importance": 0.0022933408507445096
+  },
+  {
+    "feature": "right_index_tip_vel_mean",
+    "importance": 0.002147476159095852
+  },
+  {
+    "feature": "left_ring_tip_range_x",
+    "importance": 0.002119889174169966
+  },
+  {
+    "feature": "right_index_tip_path_length",
+    "importance": 0.0020968261620255197
+  },
+  {
+    "feature": "right_index_tip_vel_std",
+    "importance": 0.001964000849232045
+  },
+  {
+    "feature": "r_wrist_path_length",
+    "importance": 0.0019159297912315235
+  },
+  {
+    "feature": "right_thumb_tip_range_y",
+    "importance": 0.0019034249717824001
+  },
+  {
+    "feature": "dist_index_thumb",
+    "importance": 0.0018869345153719737
+  },
+  {
+    "feature": "right_thumb_tip_vel_max",
+    "importance": 0.0018743289266235398
+  },
+  {
+    "feature": "l_wrist_range_x",
+    "importance": 0.0018721364148698994
+  },
+  {
+    "feature": "l_wrist_vel_std",
+    "importance": 0.0018526696914455817
+  },
+  {
+    "feature": "left_ring_tip_vel_std",
+    "importance": 0.0018174760151757246
+  },
+  {
+    "feature": "left_index_tip_vel_mean",
+    "importance": 0.0018146744288680546
+  },
+  {
+    "feature": "left_middle_tip_path_length",
+    "importance": 0.001792380134502347
+  },
+  {
+    "feature": "right_index_tip_count",
+    "importance": 0.0017869869475990328
+  },
+  {
+    "feature": "right_middle_tip_range_z",
+    "importance": 0.001755215376022751
+  },
+  {
+    "feature": "right_thumb_tip_vel_mean",
+    "importance": 0.0017350077583709856
+  },
+  {
+    "feature": "left_pinky_tip_path_length",
+    "importance": 0.0017201354520664225
+  },
+  {
+    "feature": "right_middle_tip_range_y",
+    "importance": 0.0017142063000991283
+  },
+  {
+    "feature": "left_pinky_tip_range_y",
+    "importance": 0.001709816260670173
+  },
+  {
+    "feature": "right_pinky_tip_vel_max",
+    "importance": 0.0016724979608177737
+  },
+  {
+    "feature": "right_ring_tip_range_x",
+    "importance": 0.0016686002926289975
+  },
+  {
+    "feature": "l_wrist_path_length",
+    "importance": 0.0016616077630801924
+  },
+  {
+    "feature": "right_middle_tip_vel_mean",
+    "importance": 0.0016530522488099485
+  },
+  {
+    "feature": "left_pinky_tip_vel_mean",
+    "importance": 0.0016469296322124708
+  },
+  {
+    "feature": "left_thumb_tip_count",
+    "importance": 0.0016385566756197646
+  },
+  {
+    "feature": "right_index_tip_range_x",
+    "importance": 0.001634177107016194
+  },
+  {
+    "feature": "l_wrist_range_z",
+    "importance": 0.0016338509553470752
+  },
+  {
+    "feature": "right_pinky_tip_vel_std",
+    "importance": 0.0016242293540636996
+  },
+  {
+    "feature": "r_wrist_vel_std",
+    "importance": 0.0015553749480373277
+  },
+  {
+    "feature": "left_index_tip_range_y",
+    "importance": 0.001552501785260406
+  },
+  {
+    "feature": "left_index_tip_range_x",
+    "importance": 0.0015514497503696125
+  },
+  {
+    "feature": "left_index_tip_vel_max",
+    "importance": 0.0015342177548629096
+  },
+  {
+    "feature": "left_index_tip_count",
+    "importance": 0.0015115100372832327
+  },
+  {
+    "feature": "right_middle_tip_vel_max",
+    "importance": 0.0015080197110133278
+  },
+  {
+    "feature": "left_index_tip_vel_std",
+    "importance": 0.0014783007368161882
+  },
+  {
+    "feature": "left_thumb_tip_vel_std",
+    "importance": 0.0014441495740461113
+  },
+  {
+    "feature": "r_wrist_range_z",
+    "importance": 0.001395543138116189
+  },
+  {
+    "feature": "right_ring_tip_vel_std",
+    "importance": 0.0013705500412441076
+  },
+  {
+    "feature": "right_middle_tip_count",
+    "importance": 0.0013198919473751904
+  },
+  {
+    "feature": "left_ring_tip_vel_mean",
+    "importance": 0.0013166490659908003
+  },
+  {
+    "feature": "left_ring_tip_count",
+    "importance": 0.001300833944563062
+  },
+  {
+    "feature": "dist_r_wrist_thumb",
+    "importance": 0.001201556041818624
+  },
+  {
+    "feature": "l_wrist_count",
+    "importance": 0.0010440138470530057
+  },
+  {
+    "feature": "bow_length",
+    "importance": 0.0009973157464738876
+  },
+  {
+    "feature": "right_thumb_tip_range_x",
+    "importance": 0.0009255455712451862
+  },
+  {
+    "feature": "left_middle_tip_range_x",
+    "importance": 0.0009064676475196194
+  },
+  {
+    "feature": "left_pinky_tip_count",
+    "importance": 0.0008814530742972729
+  },
+  {
+    "feature": "r_wrist_range_x",
+    "importance": 0.0008672778414418167
+  },
+  {
+    "feature": "l_wrist_vel_mean",
+    "importance": 0.0008416005336965435
+  },
+  {
+    "feature": "right_middle_tip_path_length",
+    "importance": 0.0008379885169056665
+  },
+  {
+    "feature": "left_ring_tip_range_z",
+    "importance": 0.0007851515337548857
+  },
+  {
+    "feature": "left_pinky_tip_vel_std",
+    "importance": 0.0007772145198395731
+  },
+  {
+    "feature": "left_middle_tip_count",
+    "importance": 0.0006914512265276864
+  },
+  {
+    "feature": "bow_angle_wrist_thumb_index",
+    "importance": 0.0006192016987284818
+  },
+  {
+    "feature": "left_middle_tip_vel_max",
+    "importance": 0.0005063944748635546
+  },
+  {
+    "feature": "right_pinky_tip_vel_mean",
+    "importance": 0.0001238929931629423
+  },
+  {
+    "feature": "duration",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_elbow_count",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_elbow_range_x",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_elbow_range_y",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_elbow_range_z",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_elbow_vel_max",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_elbow_vel_mean",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_elbow_vel_std",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_elbow_path_length",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_shoulder_count",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_shoulder_range_x",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_shoulder_range_y",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_shoulder_range_z",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_shoulder_vel_max",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_shoulder_vel_mean",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_shoulder_vel_std",
+    "importance": 0.0
+  },
+  {
+    "feature": "r_shoulder_path_length",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_elbow_count",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_elbow_range_x",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_elbow_range_y",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_elbow_range_z",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_elbow_vel_max",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_elbow_vel_mean",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_elbow_vel_std",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_elbow_path_length",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_shoulder_count",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_shoulder_range_x",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_shoulder_range_y",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_shoulder_range_z",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_shoulder_vel_max",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_shoulder_vel_mean",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_shoulder_vel_std",
+    "importance": 0.0
+  },
+  {
+    "feature": "l_shoulder_path_length",
+    "importance": 0.0
+  },
+  {
+    "feature": "right_middle_tip_vel_std",
+    "importance": 0.0
+  },
+  {
+    "feature": "right_ring_tip_count",
+    "importance": 0.0
+  },
+  {
+    "feature": "right_ring_tip_path_length",
+    "importance": 0.0
+  },
+  {
+    "feature": "right_pinky_tip_range_x",
+    "importance": 0.0
+  },
+  {
+    "feature": "right_thumb_tip_vel_std",
+    "importance": 0.0
+  },
+  {
+    "feature": "right_thumb_tip_path_length",
+    "importance": 0.0
+  },
+  {
+    "feature": "left_index_tip_range_z",
+    "importance": 0.0
+  },
+  {
+    "feature": "left_middle_tip_vel_mean",
+    "importance": 0.0
+  },
+  {
+    "feature": "left_thumb_tip_vel_max",
+    "importance": 0.0
+  },
+  {
+    "feature": "dist_r_shoulder_elbow",
+    "importance": 0.0
+  },
+  {
+    "feature": "dist_r_elbow_wrist",
+    "importance": 0.0
+  },
+  {
+    "feature": "bow_angle_elbow_wrist_index",
+    "importance": 0.0
+  },
+  {
+    "feature": "bow_angle_shoulder_elbow_wrist",
+    "importance": 0.0
+  }
+]

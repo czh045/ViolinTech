@@ -1,0 +1,64 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+*.log
+*.aux
+*.out
+
+# Local datasets and generated media. Keep manifests and paper figures instead.
+boxian/
+dungong/
+plain/
+rouxian/
+shuangyin/
+tiaogong/
+chanyin/
+prepared/
+annotation/
+tmp_out/*.log
+tmp_out/*_violin_skeleton.csv
+tmp_out/test_*/
+tmp_out/data_manifest.csv
+
+# Large trained binaries can be shared through a release or cloud link if needed.
+*.joblib
+
+# Private academic and application materials are source references, not project
+# artifacts for the public code repository.
+application/
+defense_submission_20260925/
+submissions/
+form *.doc
+Academic Writing Template.docx
+Violin_Technique_Recognition_Research_Report.docx
+Violin_Technique_Recognition_Research_Report.pdf
+【修改建议】Multimodal Violin Technique Recognition.docx
+微信图片_*.jpg
+paper_draft.pdf
+paper_draft.tex
+
+# Local backups
+ViolinTech - 副本/
+
+# Legacy one-off experiments and private defense-material generators. The
+# primary public pipeline is documented in README.md.
+batch_test.py
+build_bilingual_defense_handbook.py
+build_defense_materials.py
+build_short_word_defense_notes.py
+compare.py
+debug_collect_samples.py
+diagnose.py
+manual_label.py
+pic.py
+pic2.py
+predict_violin_pizzicato.py
+test.py
+train_multimodal_pizzicato.py
+train_pizzicato.py
+train_violin_pizzicato_best.py
+scripts/build_academic_report.py
+scripts/create_annotation_audit.py
+scripts/evaluate_annotation_audit.py
+scripts/model_assist_annotation_audit.py

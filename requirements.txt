@@ -1,0 +1,13 @@
+joblib
+matplotlib
+mediapipe==0.10.14
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+pandas
+python-docx
+pytest
+reportlab
+scikit-learn
+scipy
+seaborn
+soundfile
